@@ -1,0 +1,8 @@
+[package]
+name = "backup-manager"
+version = "0.1.0"
+authors = ["Robin van Leeuwen <robinvanleeuwen@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rust-ini = "0.13"
